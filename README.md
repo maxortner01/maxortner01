@@ -1,4 +1,4 @@
-### Take a look at my projects
+### Take a look at my projects!
 My main outlets currently are [cpp2d](https://github.com/maxortner01/cpp2d) and [my website](https://github.com/maxortner01/website). Other than that, I have many short-lived projects here, but most center around me learning ways to develop performant graphics systems.
 
 I have a [portfolio](https://github.com/maxortner01/portfolio), but *it is for my work from highschool*. For more up-to-date info, info check out [my website](https://www.maxortner.com)!
