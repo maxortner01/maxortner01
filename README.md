@@ -1,5 +1,5 @@
 ### Take a look at my projects!
-My main outlets currently are [cpp2d](https://github.com/maxortner01/cpp2d) and [my website](https://github.com/maxortner01/website). Other than that, I have many short-lived projects here, but most center around me learning ways to develop performant graphics systems.
+Check out [my website](https://github.com/maxortner01/website), a recent project for [stock market back testing](https://github.com/maxortner01/simple-finance-library), or my endeavor for the Los Alamos National lab: [parallel-io](https://github.com/maxortner01/parallel-io). Other than that, I have many short-lived projects here, but most center around me learning ways to develop various performant software.
 
 I have a [portfolio](https://github.com/maxortner01/portfolio), but *it is for my work from highschool*. For more up-to-date info, info check out [my website](https://www.maxortner.com)!
 
